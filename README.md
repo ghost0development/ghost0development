@@ -20,8 +20,8 @@ learning something at the time — GitHub included.
 |---|---|---|
 | **Systems & eBPF** | [`halcyon-process-monitor`](https://github.com/ghost0development/halcyon-process-monitor) | eBPF ransomware behavior tracker (Rust/Aya) — canonical copy |
 | **Engines** | [`NV2_ENGINE`](https://github.com/ghost0development/NV2_ENGINE), [`NV-2.0`](https://github.com/ghost0development/NV-2.0) | Voxel engine, wgpu, embedded MLP, multiplayer, EGS build |
-| **Compilers / languages** | `externum` | Python-readable, binary-fast, Bash-controlled language |
-| **Security toolkit** | `cybersec-tools` | netrecon · shadowscan · hashsleuth · packeteye |
+| **Compilers / languages** | `externum` — see `@BartoszOsiej` | Python-readable, binary-fast, Bash-controlled language |
+| **Security toolkit** | `cybersec-tools` — see `@BartoszOsiej` | netrecon · shadowscan · hashsleuth · packeteye |
 | **Web / API experiments** | `FastAPI-url`, `graphql-blog`, `search-engine`, `task-queue`, `PortfolioManager`, `ai-chat-proxy` | Small vertical slices, tested & documented |
 | **Games / mods** | `Factorio-web-game`, `Factorio-pt`, `MC-MAP-LAUNCHER`, `evotech-mod`, `Webgame`, `brother-games-land` | Game mechanics experiments |
 | **Tool experiments** | `CV-MAKER`, `rag-qa`, `AInotes`, `Ghost-media-process`, `portfolio-daemon`, `python-portfolio` | scratch-built utilities |
